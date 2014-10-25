@@ -1,5 +1,6 @@
 ble
 *.*~
+.*.swp
 
 # Object files
 *.o
