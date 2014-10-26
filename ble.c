@@ -21,6 +21,7 @@ main()
     int fd,c, res;
     struct termios oldtio,newtio;
     char buf[255];
+    char s[] = "AT+BAUD?";
 
     fd = open(DEVICE, O_RDWR | O_NOCTTY | O_NONBLOCK); 
     if (fd < 0)
@@ -47,9 +48,9 @@ main()
     while (STOP == FALSE)
     {
         printf("write\n");
-        write(fd, "AT+BAUD?");
+        write(fd, "AT", 2);
+        usleep(100000);
         printf("blocked.\n");
-        sleep(1);
         res = read(fd, buf, 255);
         printf("unblocked\n");
         if (res > -1)
