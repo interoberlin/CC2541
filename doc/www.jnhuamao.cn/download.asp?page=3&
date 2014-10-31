@@ -1,0 +1,140 @@
+<html>
+<head>
+<TITLE>蓝牙模块,BLE,蓝牙4.0模块,蓝牙适配器,IBeacons,AirLocate,济南华茂科技有限公司</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=gb2312"> 
+<META content=蓝牙模块,BLE,蓝牙4.0模块,蓝牙适配器,CC2540,CC2541,CSR name=keywords>
+<META content=蓝牙模块,BLE,蓝牙4.0模块,蓝牙适配器,CC2540,CC2541,CSR name=description>
+<link href="css.css" rel="stylesheet" type="text/css"></head>
+<body leftmargin="0" topmargin="0">
+
+<table width="1000" border="0" cellspacing="0" cellpadding="0" align="center">
+    <tr> 
+      <td height="75" align="left"><a href="index.asp"><img src="images/index_02.gif" border="0"></a></td>
+      <td align="left"><a href="index.asp"><img src="images/index_04.gif" border="0"></a></td>
+	  <td align="right"><a href="index.asp"><img src="images/index1_05.gif" border="0"></a></td>
+	  <td align="right">
+	  
+	  <table border="0" align="center">
+	  	<tr>
+			<td><a href="about.asp?ID=" target="_blank">About&nbsp;&nbsp;&nbsp;&nbsp;Huamao</a></td>
+		</tr>
+		<tr>
+			<td><a href="contact.asp?ID=" target="_blank">Contact&nbsp;&nbsp;Huamao</a></td>
+		</tr>
+		<tr>
+			<td><a href="index_en.asp?ID=" target="_blank">Download Center</a></td>
+		</tr>
+	  </table>
+	  
+	  </td>
+    </tr>
+</table>
+
+
+      <table align="center" width="1000" border="0" cellpadding="0" cellspacing="0">
+          <tr> 
+            <td width="28%" valign="top" align="center"><table width="98%" border="1" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" bordercolorlight="#FFFFFF" bordercolordark="#FFFFFF">
+              <tr>
+                <td bgcolor="#EEEEEE" align="center" height="40"><font size="4" style="font-family:Microsoft YaHei;">常用下载</font></td>
+              </tr>
+			  <tr>
+                <td bgcolor="#EEEEEE" height="40"><a href="/download_rom.asp?id="><font size="3" style="font-family:Microsoft YaHei;">&nbsp;☆&nbsp;固件下载</font></a><font color="red">&nbsp;New~~</font></td>
+              </tr>
+			  <tr>
+                <td bgcolor="#EEEEEE" height="40"><a href="/WorkFlow.zip"><font size="3" style="font-family:Microsoft YaHei;">&nbsp;☆&nbsp;模块工作流程图</font></a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#EEEEEE" height="40"><a href="/iBeacon.zip"><font size="3" style="font-family:Microsoft YaHei;">&nbsp;☆&nbsp;iBeacon基站手册</font></a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#EEEEEE" height="40"><a href="/bluetooth.zip"><font size="3" style="font-family:Microsoft YaHei;">&nbsp;☆&nbsp;2.1蓝牙模块手册</font></a></td>
+              </tr>
+			  <tr>
+                <td bgcolor="#EEEEEE" height="40"><a href="/bluetooth40.zip"><font size="3" style="font-family:Microsoft YaHei;">&nbsp;☆&nbsp;4.0蓝牙模块手册</font></a></td>
+              </tr>
+			  <tr>
+                <td bgcolor="#EEEEEE" height="40"><a href="/bluetoothdual.zip"><font size="3" style="font-family:Microsoft YaHei;">&nbsp;☆&nbsp;双模蓝牙模块手册</font></a><font color="red">&nbsp;New~~</font></td>
+              </tr>
+			  <tr>
+                <td bgcolor="#EEEEEE" height="40"><a href="/HMDongle40.zip"><font size="3" style="font-family:Microsoft YaHei;">&nbsp;☆&nbsp;HM-15 USB适配器手册</font></a></td>
+              </tr>
+			  <tr>
+                <td bgcolor="#EEEEEE" height="40"><a href="/HMDongle_driver.rar"><font size="3" style="font-family:Microsoft YaHei;">&nbsp;☆&nbsp;HM-15 USB适配器驱动</font></a></td>
+              </tr>
+			  <tr>
+                <td bgcolor="#EEEEEE" height="40"><a href="/HMComAssistant.rar"><font size="3" style="font-family:Microsoft YaHei;">&nbsp;☆&nbsp;2.1蓝牙Android助手</font></a></td>
+              </tr>
+			  <tr>
+                <td bgcolor="#EEEEEE" height="40"><a href="/HMBLEComAssistant.rar"><font size="3" style="font-family:Microsoft YaHei;">&nbsp;☆&nbsp;4.0蓝牙Android助手</font></a></td>
+              </tr>
+			  <tr>
+                <td bgcolor="#EEEEEE" height="40"><a href="/HMPCComAssistant.rar"><font size="3" style="font-family:Microsoft YaHei;">&nbsp;☆&nbsp;电脑版串口助手</font></a></td>
+              </tr>
+			  <tr>
+                <td bgcolor="#EEEEEE" height="40"><a href="/HuaMaoRemoteControl.rar"><font size="3" style="font-family:Microsoft YaHei;">&nbsp;☆&nbsp;2.1模块Android源代码</font></a></td>
+              </tr>
+			  <tr>
+                <td bgcolor="#EEEEEE" height="40"><a href="/BluetoothLeGatt.rar"><font size="3" style="font-family:Microsoft YaHei;">&nbsp;☆&nbsp;4.0模块Android源代码</font></a></td>
+              </tr>
+			  <tr>
+                <td bgcolor="#EEEEEE" height="40"><a href="/HMSoft_ios6.zip"><font size="3" style="font-family:Microsoft YaHei;">&nbsp;☆&nbsp;4.0模块IOS6源代码</font></a></td>
+              </tr>
+			  <tr>
+                <td bgcolor="#EEEEEE" height="40"><a href="/HMSoft_ios7.zip"><font size="3" style="font-family:Microsoft YaHei;">&nbsp;☆&nbsp;4.0模块IOS7源代码</font></a></td>
+              </tr>
+			  <tr>
+                <td bgcolor="#EEEEEE" height="40"><a href="/PcbLibrary.rar"><font size="3" style="font-family:Microsoft YaHei;">&nbsp;☆&nbsp;蓝牙模块封装库</font></a></td>
+              </tr>
+            </table></td>
+            <td align="center" valign="top">
+                <table width="98%" border="0" cellpadding="0" cellspacing="0">
+                  <tr> 
+                    <td height="28" background="images/index_17.gif" valign="middle">　<img src="images/ico.jpg" width="11" height="11"> 
+                      <font color="#FF0000"><strong><font color="#000066">当前位置-->下载中心</font></strong></font></td>
+                  </tr>
+                  <tr> 
+                    <td><table width="95%" border="0" align="center" cellpadding="0" cellspacing="0">
+			<tr><td height='30' valign=middle><img src=images/ico2.gif width=8 height=10 align=absmiddle>&nbsp;&nbsp;<a href="WhatsBLE.rar">BLE问题集锦...[总置顶]</a></td></tr>
+			<tr><td height='30' valign=middle><img src=images/ico2.gif width=8 height=10 align=absmiddle>&nbsp;&nbsp;<a href="HowToUseHMSensor.zip">如何让你的HMSensor更省电...[总置顶]</a></td></tr>
+                        <tr><td height='30' valign=middle><img src=images/ico2.gif width=8 height=10 align=absmiddle>&nbsp;&nbsp;<a href=shownews.asp?id=36 target='_blank'>HM-10、HM-11与IOS6视频演示 ...(2013/3/30)<font color='red'>[推荐中]</font></a></td></tr><tr><td height='30' valign=middle><img src=images/ico2.gif width=8 height=10 align=absmiddle>&nbsp;&nbsp;<a href=shownews.asp?id=35 target='_blank'>HM系列蓝牙模块(4.0)IOS6源代码及应用程序 ...(2013/3/30)</a></td></tr><tr><td height='30' valign=middle><img src=images/ico2.gif width=8 height=10 align=absmiddle>&nbsp;&nbsp;<a href=shownews.asp?id=34 target='_blank'>HM系列蓝牙模块4.0固件V106发布 ...(2013/3/24)</a></td></tr><tr><td height='30' valign=middle><img src=images/ico2.gif width=8 height=10 align=absmiddle>&nbsp;&nbsp;<a href=shownews.asp?id=33 target='_blank'>HM系列蓝牙模块底板PCB板图及原理图 ...(2013/3/22)<font color='red'>[推荐中]</font></a></td></tr><tr><td height='30' valign=middle><img src=images/ico2.gif width=8 height=10 align=absmiddle>&nbsp;&nbsp;<a href=shownews.asp?id=32 target='_blank'>HM系列4.0蓝牙模块IOS5应用程序及源代码 ...(2013/3/18)<font color='red'>[推荐中]</font></a></td></tr><tr><td height='30' valign=middle><img src=images/ico2.gif width=8 height=10 align=absmiddle>&nbsp;&nbsp;<a href=shownews.asp?id=31 target='_blank'>HM系列4.0蓝牙模块文档 V103 ...(2013/3/4)</a></td></tr><tr><td height='30' valign=middle><img src=images/ico2.gif width=8 height=10 align=absmiddle>&nbsp;&nbsp;<a href=shownews.asp?id=30 target='_blank'>HM系列蓝牙模块固件版本V545发布...... ...(2013/1/26)<font color='red'>[推荐中]</font></a></td></tr><tr><td height='30' valign=middle><img src=images/ico2.gif width=8 height=10 align=absmiddle>&nbsp;&nbsp;<a href=shownews.asp?id=29 target='_blank'>HM-10、HM-11与Iphone4s视频演示 ...(2013/1/22)<font color='red'>[推荐中]</font></a></td></tr><tr><td height='30' valign=middle><img src=images/ico2.gif width=8 height=10 align=absmiddle>&nbsp;&nbsp;<a href=shownews.asp?id=28 target='_blank'>HM系列蓝牙模块产品资料 V544 (透传、远控、PIO采集三合一) ...(2013/1/22)</a></td></tr><tr><td height='30' valign=middle><img src=images/ico2.gif width=8 height=10 align=absmiddle>&nbsp;&nbsp;<a href=shownews.asp?id=27 target='_blank'>HM系列蓝牙模块资料 V543 ...(2012/11/15)</a></td></tr><tr><td height='30' valign=middle><img src=images/ico2.gif width=8 height=10 align=absmiddle>&nbsp;&nbsp;<a href=shownews.asp?id=26 target='_blank'>HM系列蓝牙模块远程控制功能视频演示 ...(2012/10/19)<font color='red'>[推荐中]</font></a></td></tr><tr><td height='30' valign=middle><img src=images/ico2.gif width=8 height=10 align=absmiddle>&nbsp;&nbsp;<a href=shownews.asp?id=25 target='_blank'>HM系列蓝牙模块封装库和原理图库资料 ...(2012/10/17)<font color='red'>[推荐中]</font></a></td></tr><tr><td height='30' valign=middle><img src=images/ico2.gif width=8 height=10 align=absmiddle>&nbsp;&nbsp;<a href=shownews.asp?id=24 target='_blank'>蓝牙串口助手 V1.03 版本发布 ...(2012/10/16)<font color='red'>[推荐中]</font></a></td></tr><tr><td height='30' valign=middle><img src=images/ico2.gif width=8 height=10 align=absmiddle>&nbsp;&nbsp;<a href=shownews.asp?id=23 target='_blank'>华茂SPP开发、下载、调试板使用说明 ...(2012/10/13)<font color='red'>[推荐中]</font></a></td></tr><tr><td height='30' valign=middle><img src=images/ico2.gif width=8 height=10 align=absmiddle>&nbsp;&nbsp;<a href=shownews.asp?id=22 target='_blank'>Android串口助手使用说明文档 ...(2012/10/6)</a></td></tr><tr><td height='30' valign=middle><img src=images/ico2.gif width=8 height=10 align=absmiddle>&nbsp;&nbsp;<a href=shownews.asp?id=21 target='_blank'>HM系列蓝牙模块远程控制Android演示程序 ...(2012/10/6)</a></td></tr><tr><td height='30' valign=middle><img src=images/ico2.gif width=8 height=10 align=absmiddle>&nbsp;&nbsp;<a href=shownews.asp?id=20 target='_blank'>HM系列蓝牙模块资料 V542 ...(2012/10/6)</a></td></tr><tr><td height='30' valign=middle><img src=images/ico2.gif width=8 height=10 align=absmiddle>&nbsp;&nbsp;<a href=shownews.asp?id=19 target='_blank'>HM系列蓝牙模块 V54 ...(2012/10/6)</a></td></tr>
+				<tr> 
+                  <td height="25" align="center">
+				  总记录数: 58&nbsp;&nbsp;分页信息: <a href='/download.asp?page=1&'  title='首页'>[<<]</a>-<a href='/download.asp?page=2&'  title='上一页'>[<]</a> <a href='/download.asp?page=1&' title='第1页'>[1]</a> <a href='/download.asp?page=2&' title='第2页'>[2]</a> 3  <a href='/download.asp?page=4&' title='第4页'>[4]</a> <a href='/download.asp?page=4&' title='下一页' >[>]</a>-<a href='/download.asp?page=4&' title='最后一页' >[>>]</a></td>
+                </tr>
+                </table></td>
+                </tr>
+                </table>
+            </td>
+          </tr>
+        </table>
+<table width="1000" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr>
+<td height="2" bgcolor="#E3E2E3"></td>
+</tr>
+<tr>
+<td height="10" bgcolor="#808080"></td>
+</tr>
+    <tr>       
+    <td bgcolor="#808080" align="center">
+	
+	<a href="about.asp" target="_blank"><font color="#FFFFFF">About us</font></a> 　| 　<a href="contact.asp" target="_blank"><font color="#FFFFFF">Contact us</font></a> 
+          　| 　<a href="index_en.asp" target="_blank"><font color="#FFFFFF">Download Center</font></a>
+	
+      <noscript><a href="http://www.51.la/?15659788" target="_blank"><img alt="&#x6211;&#x8981;&#x5566;&#x514D;&#x8D39;&#x7EDF;&#x8BA1;" src="http://img.users.51.la/15659788.asp" style="border:none" /></a></noscript></td>
+    </tr>
+<tr>
+<td height="5" bgcolor="#808080"></td>
+</tr>
+	<tr>
+	<td background="images/index_53.gif" height="10"></td>
+	</tr>
+    <tr> 
+      <td height="60"  bgcolor="#808080" align="center">
+		<font color="#FFFFFF">Mail: webmaster@jnhuamao.cn<br>
+          Copyright 2007-2013 Jinan Huamao technology Co., LTD. &nbsp;<br>
+          <script language="javascript" type="text/javascript" src="http://js.users.51.la/15659788.js"></script></font></td>
+    </tr>
+  </table>
+  
+</body>
+</html>

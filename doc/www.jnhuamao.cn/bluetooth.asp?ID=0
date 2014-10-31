@@ -1,0 +1,214 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>Huamao technology Co,. Ltd.</title>
+<link href="css.css" rel="stylesheet" type="text/css"></head>
+
+<body leftmargin="0" topmargin="0">
+
+<table width="1000" border="0" cellspacing="0" cellpadding="0" align="center">
+    <tr> 
+      <td height="75" align="left"><a href="index.asp"><img src="images/index_02.gif" border="0"></a></td>
+      <td align="left"><a href="index.asp"><img src="images/index_04.gif" border="0"></a></td>
+	  <td align="right"><a href="index.asp"><img src="images/index1_05.gif" border="0"></a></td>
+	  <td align="right">
+	  
+	  <table border="0" align="center">
+	  	<tr>
+			<td><a href="about.asp?ID=0" target="_blank">关于我们</a></td>
+		</tr>
+		<tr>
+			<td><a href="contact.asp?ID=0" target="_blank">联系我们</a></td>
+		</tr>
+		<tr>
+			<td><a href="download.asp?ID=0" target="_blank">下载中心</a></td>
+		</tr>
+	  </table>
+		
+	  </td>
+    </tr>
+</table>
+
+
+<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+  <tr> 
+    <td height="7" colspan="3"></td>
+  </tr>
+  <tr> 
+    <td colspan="3" align="center"><font size="3px" style="font-family:Microsoft YaHei;" color="#FF0000">
+	
+	更多资料下载请去下载中心~~
+	</font></td>
+  </tr>
+  <tr> 
+    <td valign="top" align="center">
+		<table border="0" width="100%" cellpadding="0" cellspacing="0">
+			<tr>
+				<td align="center"><a href="/bluetooth.zip"><img src="images/HM060.gif" border="0" alt="HM-06 Bluetooth module"></a>
+				</td>
+			</tr>
+			<tr>
+				<td><font size="3px" style="font-family:Microsoft YaHei;">
+				&nbsp;☆&nbsp;型号: HM-06<br>&nbsp;☆&nbsp;尺寸: 13.5 * 18 * 2.3 mm<br>&nbsp;☆&nbsp;版本: V2.1<br>&nbsp;☆&nbsp;固件: V620<br>&nbsp;☆&nbsp;状态: 在产
+				</font>
+				</td>
+			</tr>
+		</table>
+	</td>
+	<td valign="top" align="center">
+		<table border="0" width="100%" cellpadding="0" cellspacing="0">
+			<tr>
+				<td align="center"><a href="/bluetooth40.zip"><img src="images/HM110.gif" border="0" alt="HM-11 Bluetooth module"></a>
+				</td>
+			</tr>
+			<tr>
+				<td><font size="3px" style="font-family:Microsoft YaHei;">
+				&nbsp;☆&nbsp;型号: HM-11<br>&nbsp;☆&nbsp;尺寸: 13.5 * 18 * 2.3 mm<br>&nbsp;☆&nbsp;版本: V4.0 BLE<br>&nbsp;☆&nbsp;固件: V508<br>&nbsp;☆&nbsp;状态: 在产
+				</font>
+				</td>
+			</tr>
+		</table>
+	</td>
+	<td valign="top" align="center">
+		<table border="0" width="100%" cellpadding="0" cellspacing="0">
+			<tr>
+				<td align="center"><a href="/bluetoothdual.zip"><img src="images/HM130.gif" border="0" alt="HM-13 Bluetooth module"></a>				</td>
+			</tr>
+			<tr>
+				<td><font size="3px" style="font-family:Microsoft YaHei;">
+				
+				&nbsp;☆&nbsp;型号: HM-13<br>
+				&nbsp;☆&nbsp;尺寸: 13.5 * 18 * 2.3 mm<br>
+				&nbsp;☆&nbsp;版本: 双模 <br>
+				&nbsp;☆&nbsp;固件: V209<br>
+&nbsp;☆&nbsp;状态: 在产
+</font>				</td>
+			</tr>
+		</table>
+	</td>
+  </tr>
+  <tr> 
+    <td valign="top" align="center">
+		<table border="0" width="100%" cellpadding="0" cellspacing="0">
+			<tr>
+				<td align="center"><a href="/bluetooth40.zip"><img src="images/HM100.gif" border="0" alt="HM-10 Bluetooth module"></a>
+				</td>
+			</tr>
+			<tr>
+				<td><font size="3px" style="font-family:Microsoft YaHei;">
+				&nbsp;☆&nbsp;型号: HM-10<br>&nbsp;☆&nbsp;尺寸: 13 * 28 * 2.3 mm<br>&nbsp;☆&nbsp;版本: V4.0 BLE<br>&nbsp;☆&nbsp;固件: V508<br>&nbsp;☆&nbsp;状态: 在产
+				</font>
+				</td>
+			</tr>
+		</table>
+	</td>
+	<td valign="top" align="center">
+		<table border="0" width="100%" cellpadding="0" cellspacing="0">
+			<tr>
+				<td align="center"><a href="/bluetoothdual.zip"><img src="images/HM120.gif" border="0" alt="HM-12 dual mode Bluetooth module"></a>
+				</td>
+			</tr>
+			<tr>
+				<td><font size="3px" style="font-family:Microsoft YaHei;">
+				
+				&nbsp;☆&nbsp;型号: HM-12<br>
+				&nbsp;☆&nbsp;尺寸: 13.5 * 18 * 2.3 mm<br>
+				&nbsp;☆&nbsp;版本: V4.0 EDR + BLE dual mode <br>
+				&nbsp;☆&nbsp;固件: V207<br>
+				&nbsp;☆&nbsp;状态: 在产
+				</font>
+				</td>
+			</tr>
+		</table>
+	</td>
+	<td valign="top" align="center">
+		<table border="0" width="100%" cellpadding="0" cellspacing="0">
+			<tr>
+				<td align="center"><a href="/HMDongle40.zip"><img src="images/HM150.gif" border="0" alt="HM-15 Bluetooth module"></a>
+				</td>
+			</tr>
+			<tr>
+				<td><font size="3px" style="font-family:Microsoft YaHei;">
+				&nbsp;☆&nbsp;型号: HM-15<br>&nbsp;☆&nbsp;尺寸: 60 * 20 * 10 mm<br>&nbsp;☆&nbsp;版本: V4.0 BLE<br>&nbsp;☆&nbsp;固件: V509<br>&nbsp;☆&nbsp;状态: 在产
+				</font>
+				</td>
+			</tr>
+		</table>
+	</td>		
+  </tr>
+  <tr> 
+    <td valign="top" align="center">
+		<table border="0" width="100%" cellpadding="0" cellspacing="0">
+			<tr>
+				<td align="center"><img src="images/HMSensor_10.gif" border="0" alt="HMSensor HM-10">
+				</td>
+			</tr>
+			<tr>
+				<td><font size="3px" style="font-family:Microsoft YaHei;">
+				&nbsp;☆&nbsp;型号: HMSensor<br>&nbsp;☆&nbsp;尺寸: 50 * 50 * 10 mm<br>&nbsp;☆&nbsp;版本: V4.0<br>&nbsp;☆&nbsp;固件: V526<br>&nbsp;☆&nbsp;状态: 在产
+				</font>
+				</td>
+			</tr>
+		</table>
+	</td>
+	<td valign="top" align="center">
+		<table border="0" width="100%" cellpadding="0" cellspacing="0">
+			<tr>
+				<td align="center"><img src="images/HMSensor_11.gif" border="0" alt="HMSensor HM-11">
+				</td>
+			</tr>
+			<tr>
+				<td><font size="3px" style="font-family:Microsoft YaHei;">
+				&nbsp;☆&nbsp;型号: HMSensor HM-11<br>&nbsp;☆&nbsp;尺寸: 5 * 5 * 10 mm<br>&nbsp;☆&nbsp;版本: V4.0<br>&nbsp;☆&nbsp;固件: V526<br>&nbsp;☆&nbsp;状态: 在产
+				</font>
+				</td>
+			</tr>
+		</table>
+	</td>
+	<td valign="top" align="center">
+		<table border="0" width="100%" cellpadding="0" cellspacing="0">
+			<tr>
+				<td align="center"><a href="/iBeacon.zip"><img src="images/iBeacon.gif" border="0" alt="HM-05 Bluetooth module"></a>
+				</td>
+			</tr>
+			<tr>
+				<td><font size="3px" style="font-family:Microsoft YaHei;">
+				&nbsp;☆&nbsp;型号: iBeacon<br>&nbsp;☆&nbsp;尺寸: 46 * 28 * 18 mm<br>&nbsp;☆&nbsp;版本: BLE<br>&nbsp;☆&nbsp;固件: V520<br>&nbsp;☆&nbsp;状态: 在产
+				</font>
+				</td>
+			</tr>
+		</table>
+	</td>	
+  </tr>
+</table>
+<table width="1000" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr>
+<td height="2" bgcolor="#E3E2E3"></td>
+</tr>
+<tr>
+<td height="10" bgcolor="#808080"></td>
+</tr>
+    <tr>       
+    <td bgcolor="#808080" align="center">
+	
+	<a href="about.asp" target="_blank"><font color="#FFFFFF">关于我们</font></a> 　| 　<a href="contact.asp" target="_blank"><font color="#FFFFFF">联系我们</font></a> 
+          　| 　<a href="download.asp" target="_blank"><font color="#FFFFFF">下载中心</font></a>
+	
+      <noscript><a href="http://www.51.la/?15659788" target="_blank"><img alt="&#x6211;&#x8981;&#x5566;&#x514D;&#x8D39;&#x7EDF;&#x8BA1;" src="http://img.users.51.la/15659788.asp" style="border:none" /></a></noscript></td>
+    </tr>
+<tr>
+<td height="5" bgcolor="#808080"></td>
+</tr>
+	<tr>
+	<td background="images/index_53.gif" height="10"></td>
+	</tr>
+    <tr> 
+      <td height="60"  bgcolor="#808080" align="center">
+		<font color="#FFFFFF">Mail: webmaster@jnhuamao.cn<br>
+          Copyright 2007-2013 Jinan Huamao technology Co., LTD. &nbsp;<br>
+          <script language="javascript" type="text/javascript" src="http://js.users.51.la/15659788.js"></script></font></td>
+    </tr>
+  </table>
+  
+</body>
+</html>

@@ -1,0 +1,72 @@
+body{line-height:200%}
+p{line-height:200%}
+td {font-size: 9pt; line-height: 200%}
+a:link {  color: #000000; text-decoration: none}
+a:visited {  color: #333333; text-decoration: none}
+a:hover {  color: #FF0000; text-decoration: none}
+a:active {  color: #FF0000}
+a.title:link {  color: #FFFFFF; text-decoration: none; font-size: 10.5pt; font-weight: bold}
+a.title:visited {  color: #FFFFFF; text-decoration: none; font-size: 10.5pt; font-weight: bold}
+a.title:hover {  color: #FFFFFF; text-decoration: underline; font-size: 10.5pt; font-weight: bold}
+a.title:active {  color: #FFFFFF; text-decoration: underline; font-size: 10.5pt; font-weight: bold}
+a.title1:link {  color: #FFFFFF; text-decoration: none; font-size: 9pt; font-weight: bold}
+a.title1:visited {  color: #FFFFFF; text-decoration: none; font-size: 9pt; font-weight: bold}
+a.title1:hover {  color: #FFFFFF; text-decoration: underline; font-size: 9pt; font-weight: none}
+a.title1:active {  color: #FFFFFF; text-decoration: underline; font-size: 9pt; font-weight: none}
+.font1 {  font-size: 10.5pt;}
+.textinput1 {background-color:#FFFFFF; BORDER-BOTTOM: 1px solid; BORDER-LEFT: rgb(255,255,255) 0px solid; BORDER-RIGHT: rgb(255,255,255) 0px solid; BORDER-TOP: rgb(255,255,255) 0px solid;font-size: 9pt; color: #2424aF}
+.en {  font-family: "Arial", "Helvetica", "sans-serif"}
+.hand {  cursor: hand}
+.hidden { height:0pt}
+.button1{ font-size:9pt;background-color:f6fff6;color:3333aa;border: 1 double}
+.box {
+	border: 0px solid #9999FF;
+	height: auto;
+	clip:     rect(   );
+	color: #000000;
+	font-size: 9pt;
+	line-height: 300%;
+	font-family: "宋体";
+	font-style: normal;
+	text-align: left;
+	white-space: normal;
+
+}}
+.boxlogin {
+	border: 0px solid #9999FF;
+	height: 18px;
+	clip:     rect(   );
+	color: #FFFFFF;
+	font-size: 14px;
+	font-weight: bold;
+	font-family: "宋体";
+
+}}
+.box2 {
+	height: auto;
+	width: auto;
+	font-family: "宋体";
+	color: #660000;
+	font-size: 9pt;
+	line-height: 200%;
+	border-top: 0px solid #FFFFFF;
+	border-right: 0px solid #FFFFFF;
+	border-bottom: 0px solid #0000cc;
+	border-left: 0px solid #FFFFFF;
+}
+.box3 {  border: 0px #ffffFF solid; height: 18px; clip:     rect(   ); color: 0000cc; border-color: #ffffFF #ffffFF #ffffff; font-size: 10.5pt}
+.box4 {
+	height: auto;
+	font-family: "宋体";
+	color: #FFFFFF;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bold;
+	border-top: 1px none #FFFFFF;
+	border-right: 1px none #FFFFFF;
+	border-bottom: 1px none #0000cc;
+	border-left: 1px none #FFFFFF;
+
+}
+.box5 {  border: 1px solid; height: 18px; clip:    rect(   ); width: 85px; font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; color: 0000cc; border-color: #FFFFFF #FFFFFF #0000cc}
+.box001 {  font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; color: #FFFFFF; height: 18px; border: 1px solid; border-color: #FFFFFF #FFFFFF #6699FF}

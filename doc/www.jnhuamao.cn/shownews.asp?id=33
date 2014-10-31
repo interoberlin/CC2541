@@ -1,0 +1,83 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>济南华茂科技有限公司</title>
+<link href="css.css" rel="stylesheet" type="text/css">
+</head>
+
+<body leftmargin="0" topmargin="0">
+
+<table width="1000" border="0" cellspacing="0" cellpadding="0" align="center">
+    <tr> 
+      <td height="75" align="left"><a href="index.asp"><img src="images/index_02.gif" border="0"></a></td>
+      <td align="left"><a href="index.asp"><img src="images/index_04.gif" border="0"></a></td>
+	  <td align="right"><a href="index.asp"><img src="images/index1_05.gif" border="0"></a></td>
+	  <td align="right">
+	  
+	  <table border="0" align="center">
+	  	<tr>
+			<td><a href="about.asp?ID=33" target="_blank">About&nbsp;&nbsp;&nbsp;&nbsp;Huamao</a></td>
+		</tr>
+		<tr>
+			<td><a href="contact.asp?ID=33" target="_blank">Contact&nbsp;&nbsp;Huamao</a></td>
+		</tr>
+		<tr>
+			<td><a href="index_en.asp?ID=33" target="_blank">Download Center</a></td>
+		</tr>
+	  </table>
+	  
+	  </td>
+    </tr>
+</table>
+
+
+<table width="765" border="1" align="center" cellpadding="0" cellspacing="0" bordercolordark="#FFFFFF" bordercolorlight="#6699FF">
+  <tr> 
+    <td valign="top" align="center">
+        <table width="90%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td valign="middle">　<img src="images/ico.jpg" width="11" height="11"> <font color="#FF0000"><strong><font color="#000066">当前位置：阅读信息</font></strong></font></td>
+          </tr>
+		  <tr><td valign=top align=center><DIV style='ONT-SIZE: 20px; COLOR: #484848; LINE-HEIGHT: 200%'><b>HM系列蓝牙模块底板PCB板图及原理图</b></div></td></tr><tr><td valign=top align=center><img src=admin/proimg/20121017136920913.jpg WIDTH=700><br></td></tr><tr><td style='LINE-HEIGHT: 200%'><br><BR>
+<P>HM系列蓝牙模块底板PCB板图和原理图<BR>==================================<BR>资料包含底板板图、原理图。dxp2004格式。<BR>该底板适用于HM-01，HM-02，HM-05，HM-06，HM-07，HM-08，HM-09，HM-10，HM-11<BR>引出全部管脚，方便您开发使用。</P>
+<P>&nbsp;</P>
+<P>下载地址:<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <A href="http://www.jnhuamao.cn/BaseBoard.rar">http://www.jnhuamao.cn/BaseBoard.rar</A></P>
+<P>&nbsp;</P>
+<P>&nbsp;</P></td></tr><tr><td valign=top align=right>技术支持: webmaster@jnhuamao.cn</td></tr>
+        </table>
+    </td>
+  </tr>
+</table>
+<br>
+<table width="1000" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr>
+<td height="2" bgcolor="#E3E2E3"></td>
+</tr>
+<tr>
+<td height="10" bgcolor="#808080"></td>
+</tr>
+    <tr>       
+    <td bgcolor="#808080" align="center">
+	
+	<a href="about.asp" target="_blank"><font color="#FFFFFF">About us</font></a> 　| 　<a href="contact.asp" target="_blank"><font color="#FFFFFF">Contact us</font></a> 
+          　| 　<a href="index_en.asp" target="_blank"><font color="#FFFFFF">Download Center</font></a>
+	
+      <noscript><a href="http://www.51.la/?15659788" target="_blank"><img alt="&#x6211;&#x8981;&#x5566;&#x514D;&#x8D39;&#x7EDF;&#x8BA1;" src="http://img.users.51.la/15659788.asp" style="border:none" /></a></noscript></td>
+    </tr>
+<tr>
+<td height="5" bgcolor="#808080"></td>
+</tr>
+	<tr>
+	<td background="images/index_53.gif" height="10"></td>
+	</tr>
+    <tr> 
+      <td height="60"  bgcolor="#808080" align="center">
+		<font color="#FFFFFF">Mail: webmaster@jnhuamao.cn<br>
+          Copyright 2007-2013 Jinan Huamao technology Co., LTD. &nbsp;<br>
+          <script language="javascript" type="text/javascript" src="http://js.users.51.la/15659788.js"></script></font></td>
+    </tr>
+  </table>
+  
+</body>
+</html>
