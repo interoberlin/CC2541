@@ -1,8 +1,7 @@
-Userspace software
+CC2541 firmware
 ========
 
-Linux userspace software to interface via UART with this project's firmware,
-especially on TinySine's HM10 Bluetooth Low Energy module
+Firmware for Texas Instrument's CC2541 Bluetooth Low Energy chip
 
 License: GNU AGPL v3
 
