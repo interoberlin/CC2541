@@ -1,4 +1,8 @@
 HMSoft*
+sdcc
+cc-tool
+flash
+*.adf
 
 *.*~
 .*.swp
