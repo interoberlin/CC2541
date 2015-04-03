@@ -3,6 +3,7 @@ sdcc
 cc-tool
 flash
 *.adf
+*.hex
 
 *.*~
 .*.swp
