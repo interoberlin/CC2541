@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1221</ColumnWidth1></Debug-Log>
+      <Build>
+        <ColumnWidth0>20</ColumnWidth0>
+        <ColumnWidth1>915</ColumnWidth1>
+        <ColumnWidth2>244</ColumnWidth2>
+        <ColumnWidth3>61</ColumnWidth3>
+      </Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>153</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        
+        
+        
+      <MixedMode>1</MixedMode><CodeCovShow>1</CodeCovShow><InstrProfShow>1</InstrProfShow></Disassembly>
+    <Watch><Format><struct_types/><watch_formats><Fmt><Key>{W}Watch-0:CurrentFreq</Key><Value>3</Value></Fmt><Fmt><Key>{W}Watch-0:DL_CELL_ID_BIT_MASK</Key><Value>1</Value></Fmt><Fmt><Key>{W}Watch-0:MACLayer_CurrentChannel</Key><Value>3</Value></Fmt><Fmt><Key>{W}Watch-0:RF_CalcCRC</Key><Value>4</Value></Fmt><Fmt><Key>{W}Watch-0:RF_CalcRecCRC</Key><Value>4</Value></Fmt><Fmt><Key>{W}Watch-0:RF_PSDULength</Key><Value>3</Value></Fmt><Fmt><Key>{W}Watch-0:RF_RadioChannel</Key><Value>3</Value></Fmt><Fmt><Key>{W}Watch-0:RF_RecCRC</Key><Value>4</Value></Fmt><Fmt><Key>{W}Watch-0:RF_RecievedCRC</Key><Value>4</Value></Fmt><Fmt><Key>{W}Watch-0:crc32</Key><Value>4</Value></Fmt><Fmt><Key>{W}Watch-0:sam_dslot_num</Key><Value>4</Value></Fmt><Fmt><Key>{W}Watch-0:status</Key><Value>1</Value></Fmt><Fmt><Key>{W}Watch-0:tmp_byte</Key><Value>1</Value></Fmt><Fmt><Key>{W}Watch-0:tmp_dslot_num</Key><Value>3</Value></Fmt></watch_formats></Format><Column0>206</Column0><Column1>289</Column1><Column2>100</Column2><Column3>100</Column3></Watch><QuickWatch><Column0>100</Column0><Column1>100</Column1><Column2>100</Column2><Column3>100</Column3></QuickWatch><Register><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></Register></Static>
+    <Windows>
+      
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-22949-8425</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-406-8438</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-929-8428</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>CC2541_SAM</ExpandedNode><ExpandedNode>CC2541_SAM/MCUTimer2.c</ExpandedNode><ExpandedNode>CC2541_SAM/RF.c</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd4>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-22426-8435</Identity>
+            <TabName>Disassembly</TabName>
+            <Factory>Disassembly</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd4><Wnd5><Tabs><Tab><Identity>TabID-21318-5553</Identity><TabName>Watch</TabName><Factory>Watch</Factory><Session><Expressions><Expression><Expression>RF_RecCRC</Expression></Expression><Expression><Expression>RF_CalcRecCRC</Expression></Expression><Expression><Expression>MACLayer_prs</Expression></Expression><Expression><Expression>RF_RadioChannel</Expression></Expression><Expression><Expression>RF_PSDULength</Expression></Expression><Expression><Expression>status</Expression></Expression><Expression><Expression>MACLayer_pss</Expression></Expression><Expression><Expression>numberOfAttemps</Expression></Expression><Expression><Expression>CurrentChannel</Expression></Expression></Expressions><TabId>0</TabId><Column0>206</Column0><Column1>289</Column1><Column2>100</Column2><Column3>100</Column3></Session></Tab><Tab><Identity>TabID-17450-7673</Identity><TabName>Quick Watch</TabName><Factory>QuickWatch</Factory><Session><Expression>crc32Lookup[256]</Expression></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd5><Wnd6><Tabs><Tab><Identity>TabID-10245-30967</Identity><TabName>Register</TabName><Factory>Register</Factory><Session><REG1>0</REG1><REG2>0</REG2><Group>3</Group><States>0</States></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd6></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\RF.c</Filename><XPos>0</XPos><YPos>903</YPos><SelStart>35960</SelStart><SelEnd>35960</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\MCUTimer2.c</Filename><XPos>0</XPos><YPos>158</YPos><SelStart>2858</SelStart><SelEnd>2858</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\TestRec.c</Filename><XPos>0</XPos><YPos>132</YPos><SelStart>6096</SelStart><SelEnd>6096</SelEnd></Tab><ActiveTab>2</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\RF.h</Filename><XPos>0</XPos><YPos>179</YPos><SelStart>6412</SelStart><SelEnd>6413</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files (x86)\IAR Systems\Embedded Workbench 6.0_0\8051\inc\ioCC2541.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>872</SelStart><SelEnd>872</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\prop_regs.h</Filename><XPos>0</XPos><YPos>246</YPos><SelStart>8102</SelStart><SelEnd>8102</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-010173a8><key>iaridepm.enu1</key></Toolbar-010173a8></Sizes></Row0><Row1><Sizes><Toolbar-1190a500><key>debuggergui.enu1</key></Toolbar-1190a500></Sizes></Row1><Row2><Sizes/></Row2></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>811</Bottom><Right>227</Right><x>-2</x><y>-2</y><xscreen>17</xscreen><yscreen>89</yscreen><sizeHorzCX>8854</sizeHorzCX><sizeHorzCY>79606</sizeHorzCY><sizeVertCX>119271</sizeVertCX><sizeVertCY>727191</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes><Wnd5><Rect><Top>-2</Top><Left>-2</Left><Bottom>811</Bottom><Right>353</Right><x>-2</x><y>-2</y><xscreen>25</xscreen><yscreen>101</yscreen><sizeHorzCX>13021</sizeHorzCX><sizeHorzCY>90340</sizeHorzCY><sizeVertCX>184896</sizeVertCX><sizeVertCY>727191</sizeVertCY></Rect></Wnd5></Sizes></Row0><Row1><Sizes><Wnd6><Rect><Top>-2</Top><Left>351</Left><Bottom>811</Bottom><Right>524</Right><x>351</x><y>-2</y><xscreen>200</xscreen><yscreen>193</yscreen><sizeHorzCX>104167</sizeHorzCX><sizeHorzCY>172630</sizeHorzCY><sizeVertCX>90104</sizeVertCX><sizeVertCY>727191</sizeVertCY></Rect></Wnd6></Sizes></Row1></Right><Bottom><Row0><Sizes><Wnd4><Rect><Top>-2</Top><Left>-2</Left><Bottom>30</Bottom><Right>1922</Right><x>-2</x><y>-2</y><xscreen>1924</xscreen><yscreen>32</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>28623</sizeHorzCY><sizeVertCX>111979</sizeVertCX><sizeVertCY>712880</sizeVertCY></Rect></Wnd4></Sizes></Row0><Row1><Sizes><Wnd0><Rect><Top>28</Top><Left>-2</Left><Bottom>238</Bottom><Right>1922</Right><x>-2</x><y>28</y><xscreen>1924</xscreen><yscreen>210</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>187835</sizeHorzCY><sizeVertCX>8854</sizeVertCX><sizeVertCY>79606</sizeVertCY></Rect></Wnd0></Sizes></Row1></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+

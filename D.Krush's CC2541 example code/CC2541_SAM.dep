@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>1726298273</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\Source\TestRec.c</file>
+      <file>$PROJ_DIR$\Source\MCUTimer2.c</file>
+      <file>$PROJ_DIR$\Source\RF.c</file>
+      <file>$PROJ_DIR$\Source\RF.h</file>
+      <file>$TOOLKIT_DIR$\inc\clib\sysmac.h</file>
+      <file>$TOOLKIT_DIR$\inc\clib\string.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\RF.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\MCUTimer2.r51</file>
+      <file>$PROJ_DIR$\Source\prop_regs.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\CC2541_SAM.pbd</file>
+      <file>$PROJ_DIR$\Source\hal_types.h</file>
+      <file>$PROJ_DIR$\Source\hal_defs.h</file>
+      <file>$PROJ_DIR$\Source\MCUTimer2.h</file>
+      <file>$TOOLKIT_DIR$\inc\ioCC2541.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\CC2541_SAM.d51</file>
+      <file>$PROJ_DIR$\Debug\Obj\RF.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\MCUTimer2.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\TestRec.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\TestRec.pbi</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\Source\TestRec.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 17</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 13 10 12 8 3 11</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\MCUTimer2.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 7</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12 10 8 13</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\RF.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 6</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 3 13 11 10 8 12 5 4</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\CC2541_SAM.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 16 15 18</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 14</file>
+        </tool>
+      </outputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>[REBUILD_ALL]</name>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
